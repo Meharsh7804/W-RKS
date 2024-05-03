@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "freight big pro";
+  font-family: "Bacasime Antique";
 }
 
 html,
@@ -53,10 +56,10 @@ body {
 }
 
 #loader h1 {
-  font-size: 6.9vw;
+  font-size: 7vw;
   line-height: 5vw;
   font-weight: 100;
-  letter-spacing: -3px;
+  letter-spacing: -8px;
   position: relative;
   z-index: 9;
 }
@@ -143,10 +146,10 @@ body {
 }
 
 #page1 h1 {
-  font-size: 6.9vw;
+  font-size: 7vw;
   line-height: 5vw;
   font-weight: 100;
-  letter-spacing: -3px;
+  letter-spacing: -8px;
 }
 
 #page2 {
